@@ -1,7 +1,7 @@
                 
 using System;
 
-namespace Novel
+namespace Novel 
 {
     class Program
     {
