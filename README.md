@@ -1,3 +1,7 @@
+*Visual Studio* 
+
+*C#*
+
 *Консольное приложение (.NET Framemwork)*
 
 *Версия NET 4.8*
